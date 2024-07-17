@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<Entry id='1'>
+    	<Name> Kim</Name>
+        <Height>65.03</Height>
+        <Weight>94.47</Weight>
+    </Entry>
+<Entry id='2'>
+    	<Name> Chris</Name>
+        <Height>57.27</Height>
+        <Weight>64.97</Weight>
+    </Entry>
+<Entry id='3'>
+    	<Name> Page</Name>
+        <Height>73.85</Height>
+        <Weight>93.18</Weight>
+    </Entry>
+
+<Entry id='4'>
+    	<Name> Isabella</Name>
+        <Height>61.76</Height>
+        <Weight>102.1</Weight>
+    </Entry>
+<Entry id='5'>
+    	<Name>Jack</Name>
+        <Height>60.78</Height>
+        <Weight>112.4</Weight>
+    </Entry>
+<Entry id='6'>
+    	<Name>Pablo</Name>
+        <Height>71.79</Height>
+        <Weight>109.17</Weight>
+	</Entry>
+<Entry id='6'>
+    	<Name>Jim</Name>
+        <Height>71.85</Height>
+        <Weight>74.01</Weight>
+    </Entry>
+<Entry id='6'>
+    	<Name>Jones</Name>
+        <Height>60.82</Height>
+        <Weight>65.13</Weight>
+    </Entry>
+</root>

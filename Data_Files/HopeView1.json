@@ -1,0 +1,87 @@
+[
+    {
+        "Name": "Johnny",
+        "Height": 65.75,
+        "Weight": 70.4
+    },
+    {
+        "Name": "Charlie",
+        "Height": 59.59,
+        "Weight": 74.96
+    },
+    {
+        "Name": "Scott",
+        "Height": 69.53,
+        "Weight": 93.82
+    },
+    {
+        "Name": "Martin",
+        "Height": 58.72,
+        "Weight": 108.5
+    },
+    {
+        "Name": "Tristin",
+        "Height": 60.21,
+        "Weight": 70.03
+    },
+    {
+        "Name": "Troy",
+        "Height": 59.12,
+        "Weight": 118.27
+    },
+    {
+        "Name": "Tommy",
+        "Height": 69.76,
+        "Weight": 84.91
+    },
+    {
+        "Name": "Rick",
+        "Height": 59.17,
+        "Weight": 104.12
+    },
+    {
+        "Name": "Victor",
+        "Height": 63.96,
+        "Weight": 97.82
+    },
+    {
+        "Name": "Jessie",
+        "Height": 73.45,
+        "Weight": 107.67
+    },
+    {
+        "Name": "Neil",
+        "Height": 64.53,
+        "Weight": 83.87
+    },
+    {
+        "Name": "Ted",
+        "Height": 62.42,
+        "Weight": 118.57
+    },
+    {
+        "Name": "Nick",
+        "Height": 68.76,
+        "Weight": 98.19
+    },
+    {
+        "Name": "Wiley",
+        "Height": 65.57,
+        "Weight": 67.94
+    },
+    {
+        "Name": "Morris",
+        "Height": 71.42,
+        "Weight": 103.78
+    },
+    {
+        "Name": "Clark",
+        "Height": 61.57,
+        "Weight": 97.05
+    },
+    {
+        "Name": "Stuart",
+        "Height": 61.29,
+        "Weight": 98.53
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Sherman",
+        "Height": 64.58,
+        "Weight": 110.95
+    },
+    {
+        "Name": "Simon",
+        "Height": 65.59,
+        "Weight": 117.14
+    },
+    {
+        "Name": "Jones",
+        "Height": 69.2,
+        "Weight": 81.4
+    },
+    {
+        "Name": "Brown",
+        "Height": 60.32,
+        "Weight": 113.65
+    },
+    {
+        "Name": "Garcia",
+        "Height": 70.91,
+        "Weight": 73.57
+    },
+    {
+        "Name": "Rodriguez",
+        "Height": 64.37,
+        "Weight": 84.77
+    },
+    {
+        "Name": "Lee",
+        "Height": 59.97,
+        "Weight": 98.39
+    },
+    {
+        "Name": "Young",
+        "Height": 71.78,
+        "Weight": 69.48
+    },
+    {
+        "Name": "HallAllen",
+        "Height": 59.02,
+        "Weight": 98.88
+    },
+    {
+        "Name": "Lopez",
+        "Height": 68.57,
+        "Weight": 80.09
+    }
+]
